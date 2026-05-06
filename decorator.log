@@ -1,0 +1,45 @@
+function: say_hello
+positional parameters: none
+keyword parameters: none
+return: None
+------------------------------
+function: check_arguments
+positional parameters: [10, 'Python', [1, 2, 3]]
+keyword parameters: none
+return: True
+------------------------------
+function: return_decorator_ref
+positional parameters: none
+keyword parameters: {'user': 'Admin', 'status': 'Active', 'attempts': 3}
+return: <function logger_decorator at 0x10033f400>
+------------------------------
+function: say_hello
+positional parameters: none
+keyword parameters: none
+return: None
+------------------------------
+function: check_arguments
+positional parameters: [10, 'Python', [1, 2, 3]]
+keyword parameters: none
+return: True
+------------------------------
+function: return_decorator_ref
+positional parameters: none
+keyword parameters: {'user': 'Admin', 'status': 'Active', 'attempts': 3}
+return: <function logger_decorator at 0x104a77400>
+------------------------------
+function: say_hello
+positional parameters: none
+keyword parameters: none
+return: None
+------------------------------
+function: check_arguments
+positional parameters: [10, 'Python', [1, 2, 3]]
+keyword parameters: none
+return: True
+------------------------------
+function: return_decorator_ref
+positional parameters: none
+keyword parameters: {'user': 'Admin', 'status': 'Active', 'attempts': 3}
+return: <function logger_decorator at 0x102f0f400>
+------------------------------
