@@ -1,0 +1,10 @@
+1. Restricted Sections:
+- Restricted access from certain parts of servers, it prevents duplicated content, and helps with having the server be crawled more efficiently.
+
+
+2. Rules for Specific User Agents:
+- Yes, it is able to recongnize bots from contantly scraping the website and accessing areas that it should not be in of a certain server. Depending on the bot they are restricted either entirly or have specific limitations stated and also show by certain symbols. 
+
+
+3. Reflection on Ethical Scraping:
+- The purpose of robots.txt is to set boundaries to users of what is accessible to them and what they cannot explicitly access. It promotes ethical scraping by having users respect boundaries and reducing constant scraping which can overwhelm servers.
